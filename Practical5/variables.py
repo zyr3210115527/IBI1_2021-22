@@ -7,12 +7,12 @@ if d>e:
     print("d is greater")
 if d<e:
     print("e is greater")
-f=d/a
-g=e/c
+f=d/b #the rate of new cases in 2022
+g=e/c #the rate of new cases in 2021
 if g>f:
-    print("the rate of new cases greater in 2020")
-if f>g:
     print("the rate of new cases greater in 2021")
+if f>g:
+    print("the rate of new cases greater in 2022")
 
 x=bool(input("x="))
 y=bool(input("y="))
