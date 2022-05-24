@@ -4,8 +4,11 @@ print("Rob's marks in this course is:")
 marks=[45,36,86,57,53,92,65,45]
 a=sorted(marks)
 print(a)#print a list of sorted value for marks.
-plt.style.use('_mpl-gallery')#change the style of the boxplot.
+
 plt.boxplot(marks)
+plt.title("Box chart of Rob score")
+plt.xlabel("Rob")
+plt.ylabel("marks")
 plt.show()#Show the boxplot.
 averange=np.mean(marks)
 message="Rob's averange marks is "+str(averange)+"."
