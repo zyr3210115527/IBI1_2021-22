@@ -1,0 +1,2 @@
+In practical five, I increased the number of pseudocodes in the code.
+In practical six, I added the labels to the statistical chart and Increased the number of pseudocodes. In additional,  I printed a dictionary instead of two arrays, which makes age correspond to disease probability one by one
