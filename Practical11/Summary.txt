@@ -1,0 +1,2 @@
+From the output of the code, human and mouse's sequences have much higher similarity compared to the random sequence.
+Therefore, humans and mice have a high genetic relationship
