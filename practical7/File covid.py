@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-os.chdir("C:/Users/ICBC/Downloads")
+os.chdir("C:/Users/ICBC/Desktop/practical7")
 covid_data= pd.read_csv("full_data.csv")
 
 covid_data.info()
